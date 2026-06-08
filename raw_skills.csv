@@ -1,0 +1,13 @@
+job_role,skills
+Data Scientist,Python SQL Machine_Learning Statistics Data_Analysis Pandas NumPy Visualization
+ML Engineer,Python Machine_Learning Deep_Learning TensorFlow PyTorch Scikit_learn Model_Deployment
+AI Engineer,Python Deep_Learning NLP Computer_Vision LLM API_Integration Model_Deployment
+DevOps Engineer,AWS Docker Kubernetes CI_CD Linux Git Automation Cloud
+Backend Developer,Python Java SQL APIs REST Django Flask Databases
+Frontend Developer,JavaScript HTML CSS React NodeJS UI_UX Figma
+Data Analyst,SQL Excel Power_BI Tableau Data_Analysis Statistics Visualization Python
+Cloud Architect,AWS Azure GCP Cloud Docker Kubernetes Networking Security
+Cybersecurity Analyst,Networking Security Linux Ethical_Hacking Firewalls Python Cryptography
+Full Stack Developer,Python JavaScript HTML CSS React Django SQL REST APIs
+NLP Engineer,Python NLP Deep_Learning Transformers BERT LLM Text_Processing
+Computer Vision Engineer,Python Deep_Learning Computer_Vision OpenCV TensorFlow PyTorch Image_Processing
